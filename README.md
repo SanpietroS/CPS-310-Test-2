@@ -31,19 +31,9 @@ The ontology describes humans, zombies, the grid, game state, and births. Zombie
 
 The earlier version passed **7/15** checks. The revised version passed **15/15**. Both passed all seven valid cases. The revised code rejected all eight invalid inputs, including a birth at `(-1, 0)`. Checking proposals before adding them keeps invalid and duplicate births out of the game. The event checks and full game also passed.
 
-## Major prompts
+## AI Prompt
 
-> I believe that is part to for the zombie simulator whatever is needed to be added show me and do it
-
-> Make it as simple as you can from what you added
-
-> Whatever new that needs to be added show me and where
-
-> Just write the new code over again start to finish but tell me where in the code you added the new stuff
-
-> Do everything for the zombie simulator that is being asked. Do everything just if its a different part tell me
-
-> Make sure its simple
+I asked for help moving the demo code into a separate Python file so I could run the results on their own.
 
 ## Demo options
 
